@@ -22,6 +22,9 @@ I love creating efficient and scalable web applications, exploring new technolog
 **Databases:** SQL (Oracle, MySQL, SQLite), NoSQL (MongoDB)  
 **Version Control:** Git, GitHub, GitLab  
 **Tools & Platforms:** VS Code, XAMPP, Postman, Docker (basic)  
+
+---
+
 ### 🧠 Languages & Tools  
 
 <p align="left">
