@@ -39,6 +39,42 @@ I love creating efficient and scalable web applications, exploring new technolog
 - 🧠 **LeetCode / HackerRank:** *Coming soon!*  
 
 ---
+## 🔐 Confidential / NDA Protected Projects
+
+These are real-world enterprise projects developed under confidentiality agreements.  
+Source code is private, but the purpose, tech stack, and my contribution are shared professionally.
+
+---
+
+### 📊 ERP (Enterprise Resource Planning) Software 🔒
+
+💼 **Client Industry:** Manufacturing & Inventory Management  
+🛠 **Tech Stack:** Java / Spring Boot / Laravel / MySQL / REST APIs  
+🎯 **Key Features:** Stock tracking, billing automation, invoice generation, role-based dashboards, authentication  
+👨‍💻 **My Role:** Backend Developer — API design, database modeling, authentication, reporting module  
+🚀 **Highlights:**  
+- Designed RESTful APIs and database architecture  
+- Implemented JWT-based authentication and admin access control  
+- Developed invoice automation and reporting features  
+
+> 📂 *Private repository — Demo available upon request*
+
+---
+
+### 🍽️ MessConnect – Smart Mess & Food Subscription System 🔒
+
+🌐 **Project Type:** Food Subscription & Mess Automation Platform  
+🛠 **Tech Stack:** Java, Spring Boot, MySQL, Firebase, REST APIs  
+🎯 **Key Features:** Meal subscription, online payment, menu listing, QR-based check-in, feedback system, admin panel  
+👨‍💻 **My Role:** Full Stack Developer — Backend APIs, payment integration, DB structuring  
+🚀 **Highlights:**  
+- Integrated Razorpay for secure digital payments  
+- Built QR attendance and subscription tracking  
+- Designed student, mess-owner & admin dashboards  
+
+> 📂 *Repository confidential — Details available on request*
+
+---
 
 ### 📊 GitHub Stats  
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAtole&show_icons=true&theme=tokyonight)  
