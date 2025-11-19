@@ -39,6 +39,43 @@ I love creating efficient and scalable web applications, exploring new technolog
 - 🧠 **LeetCode / HackerRank:** *Coming soon!*  
 
 ---
+
+### 🎓 Education
+
+| Degree / Course | Institution | University / Board | Year | Status |
+|------------------|------------|--------------------|------|--------|
+| MCA – Master of Computer Applications | Sinhgad Institute of Management, Vadgaon, Pune | Savitribai Phule Pune University, Pune | 2025 – Present | Pursuing |
+| BCA (BBA-CA) – Bachelor of Computer Applications | Tuljaram Chaturchand College of Arts, Science & Commerce, Baramati | Savitribai Phule Pune University, Pune | 2023 – 2025 | Completed ✔ |
+| HSC – Science (PCB) | Radhe Shyam N. Agarwal Technical School & Junior College, Baramati | Maharashtra State Board (MSBSHSE) | 2020 – 2021 | Completed ✔ |
+| SSC – Secondary School | New English School, Gojubavi | Maharashtra State Board (MSBSHSE) | 2018 – 2019 | Completed ✔ |
+
+---
+### 💼 Experience
+
+**Backend Developer (Intern / Trainee)**  
+AK Specialty Gases Pvt. Ltd.  
+🛠 Laravel | MySQL | PHP | API Integration | ERP Features  
+📌 Responsible for backend development, database design, and bug fixing.
+---
+### 🏆 Achievements & Awards
+
+🥇 **1st Place – State Level Project Competition**  
+📍 Modhoji College of Arts, Science and Commerce, Phaltan  
+🛠 Project: MessConnect – Smart Mess & Food Subscription System  
+🏅 Awarded for innovation, real-world implementation, and technical execution.
+
+🥈 **2nd Place – State Level Project Competition**  
+📍 Vidya Pratishthan’s College of Engineering (VIIT), Baramati  
+🛠 Project: ERP Software – Inventory & Billing Automation System  
+🏅 Recognized for enterprise-level architecture, backend development, and API structuring.
+
+✔ Successfully developed NDA-protected enterprise projects using **Java, PHP, Spring Boot, MySQL**  
+✔ Internship as **Backend Developer at AK Specialty Gases Pvt. Ltd.**  
+✔ Experienced in version control using **Git, GitHub, and GitLab**  
+✔ Designed **QR automation, payment integration, REST APIs, and role-based dashboards**  
+✔ Appreciated for clean coding, problem-solving, and documentation skills  
+
+---
 ## 🔐 Confidential / NDA Protected Projects
 
 These are real-world enterprise projects developed under confidentiality agreements.  
