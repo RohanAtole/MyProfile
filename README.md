@@ -50,12 +50,14 @@ I love creating efficient and scalable web applications, exploring new technolog
 | SSC – Secondary School | New English School, Gojubavi | Maharashtra State Board (MSBSHSE) | 2018 – 2019 | Completed ✔ |
 
 ---
+
 ### 💼 Experience
 
 **Backend Developer (Intern / Trainee)**  
 AK Specialty Gases Pvt. Ltd.  
 🛠 Laravel | MySQL | PHP | API Integration | ERP Features  
 📌 Responsible for backend development, database design, and bug fixing.
+
 ---
 ### 🏆 Achievements & Awards
 
