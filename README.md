@@ -124,13 +124,19 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RohanAtole&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=RohanAtole&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight)
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats-two-kappa.vercel.app/?user=RohanAtole&theme=tokyonight" alt="GitHub Streak" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=RohanAtole&theme=tokyonight" alt="Trophies" />
+
 
 
 ---
