@@ -123,15 +123,15 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
 
-![GitHub Stats](https://github-readme-stats-roan.vercel.app/api?username=rohan-atole&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats-roan.vercel.app/api/top-langs/?username=rohan-atole&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
 
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=rohan-atole&theme=dark&hide_border=false)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=rohan-atole&margin-w=10&theme=darkhub)
 
 ---
 
