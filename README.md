@@ -125,9 +125,10 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://rohan-github-stats.vercel.app/api?username=rohanatole&show_icons=true)
+![GitHub Stats](https://stats-github.vercel.app/api?username=rohanatole)
 
-![Top Languages](https://rohan-github-stats.vercel.app/api/top-langs/?username=rohanatole&layout=compact)
+![Top Languages](https://stats-github.vercel.app/api/top-langs/?username=rohanatole&layout=compact)
+
 
 
 
