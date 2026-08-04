@@ -34,7 +34,7 @@ I love creating efficient and scalable web applications, exploring new technolog
 ---
 
 ### 🌐 Portfolio & Profiles  
-- 🔗 **Portfolio:** [rohanatole.gamma.site](https://rohan-atole-xbp30vn.gamma.site/)  
+- 🔗 **Portfolio:** [rohanatole.gamma.site](https://rohan-atole-portfolio.vercel.app/)  
 - 💼 **LinkedIn:** [linkedin.com/in/rohanatole](https://linkedin.com/in/rohan-atole-538488271)  
 - 🧠 **LeetCode / HackerRank:** *Coming soon!*  
 
